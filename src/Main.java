@@ -7,12 +7,12 @@ public class Main {
                 "23ASAG8838D281",
                 "281S78218DSDSAD218");
 
-        System.out.println(carro1.cor);
-        System.out.println(carro1.modelo);
-        System.out.println(carro1.anoDeFabricacao);
-        System.out.println(carro1.placa);
-        System.out.println(carro1.getCodigoRenavan());
-        System.out.println(carro1.getChassi());
+        System.out.println("Foi criado um carro na cor " + carro1.cor +
+                " no modelo " + carro1.modelo +
+                " com o ano de fabricacao " + carro1.anoDeFabricacao +
+                " com a placa " + carro1.placa +
+                " com o codigo renava " + carro1.getCodigoRenavan() +
+                " e com o chassi " + carro1.getChassi());
 
     }
 }

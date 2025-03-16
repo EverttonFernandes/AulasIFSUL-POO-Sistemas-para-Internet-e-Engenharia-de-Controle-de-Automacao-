@@ -1,3 +1,5 @@
+package AulaPratica01;
+
 public class Carro {
     public String cor;
     public String modelo;
@@ -18,11 +20,11 @@ public class Carro {
         this.tipoDoVolante = tipoDoVolante;
     }
 
-    public String getCodigoRenavan(){
+    public String getCodigoRenavan() {
         return this.codigoRenavan;
     }
 
-    public String getChassi(){
+    public String getChassi() {
         return this.chassi;
     }
 
@@ -30,7 +32,7 @@ public class Carro {
         return tipoDoVolante;
     }
 
-    public void setTipoDoVolante (String tipoDoVolante){
+    public void setTipoDoVolante(String tipoDoVolante) {
         this.tipoDoVolante = tipoDoVolante;
     }
 

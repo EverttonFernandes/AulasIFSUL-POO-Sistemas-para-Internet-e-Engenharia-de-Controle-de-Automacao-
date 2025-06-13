@@ -1,7 +1,7 @@
-package Aula09PraticaInterfacesEOPrincipioISP.subclasses;
+package Aula09E10PraticaInterfacesEOPrincipioISPETratamentoDeExcecoes.subclasses;
 
-import Aula09PraticaInterfacesEOPrincipioISP.interfaces.ConectaWifi;
-import Aula09PraticaInterfacesEOPrincipioISP.abstracao.DispositivoEletronico;
+import Aula09E10PraticaInterfacesEOPrincipioISPETratamentoDeExcecoes.interfaces.ConectaWifi;
+import Aula09E10PraticaInterfacesEOPrincipioISPETratamentoDeExcecoes.abstracao.DispositivoEletronico;
 
 public class Smartfone extends DispositivoEletronico implements ConectaWifi {
 

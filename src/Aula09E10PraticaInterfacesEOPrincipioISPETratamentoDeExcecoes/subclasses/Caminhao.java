@@ -1,7 +1,7 @@
-package Aula09PraticaInterfacesEOPrincipioISP.subclasses;
+package Aula09E10PraticaInterfacesEOPrincipioISPETratamentoDeExcecoes.subclasses;
 
-import Aula09PraticaInterfacesEOPrincipioISP.interfaces.Abastecimento;
-import Aula09PraticaInterfacesEOPrincipioISP.abstracao.Veiculo;
+import Aula09E10PraticaInterfacesEOPrincipioISPETratamentoDeExcecoes.interfaces.Abastecimento;
+import Aula09E10PraticaInterfacesEOPrincipioISPETratamentoDeExcecoes.abstracao.Veiculo;
 
 public class Caminhao extends Veiculo implements Abastecimento {
 

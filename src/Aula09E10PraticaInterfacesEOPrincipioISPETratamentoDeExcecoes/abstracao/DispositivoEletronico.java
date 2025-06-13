@@ -1,4 +1,4 @@
-package Aula09PraticaInterfacesEOPrincipioISP.abstracao;
+package Aula09E10PraticaInterfacesEOPrincipioISPETratamentoDeExcecoes.abstracao;
 
 public abstract class DispositivoEletronico {
 
